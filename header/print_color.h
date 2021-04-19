@@ -1,5 +1,4 @@
 #pragma once
-#include <func.h>
 /*
 #define DBG_PRINT(format, arg...)   do { fprintf(stdout,"%ld,%d,[flash_sn]--- "format"\n",\
                                                  get_current_time(),getpid(),## arg);} \
